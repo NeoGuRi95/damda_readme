@@ -6,6 +6,11 @@
 ## 프로젝트 기간
 2022.08.01 ~ 2022.09.30
 
+## 팀원 & 역할
+|김민재     |박재현     |장동익     |정혜수     |좌창화     |
+|-----------|----------|----------|-----------|----------|
+|여행 플래너 개발|여행지 탐색 개발|회원 기능 개발|리뷰 기능 개발|채팅 기능 개발|
+
 ## 📚 Stacks
 <div align=center> 
   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"> 
